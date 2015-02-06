@@ -1,6 +1,7 @@
 {
     "name": "cirkut/ldap-auth",
     "description": "",
+    "version": "1.0.0",
     "keywords": ["laravel", "L5", "LDAP", "Authentication", "Laravel 5"],
     "authors": [
         {
